@@ -19,7 +19,3 @@ This will take some times to install, just had to wait for it and then was shown
 <p align="center"><img src="https://i.imgur.com/M4BYy4Z.png" height="50%" width="50%" alt="image"/>
 
 <br>
-
-
-
-
